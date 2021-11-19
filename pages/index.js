@@ -1,6 +1,13 @@
 import { useState } from "react";
 
 function Home() {
-    return <h1>Teste</h1>
+    return <div>
+        <h1>
+            Moon Store
+        </h1>
+        <h2>
+            O mundo da tecnologia
+        </h2>
+    </div>
 }
 export default Home
